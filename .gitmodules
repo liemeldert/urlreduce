@@ -1,0 +1,3 @@
+[submodule "urlreduce-dashboard"]
+	path = urlreduce-dashboard
+	url = ./urlreduce-dashboard
